@@ -52,18 +52,13 @@ p, a{
 }
 
 a{
-    font-size: 40px;
+    font-size: 28px;
     font-style: italic;
     color: azure;
-
 }
 
 .box1, .box2 {
     width:29vw;
-}
-
-.ffilez{
-    font-size: 2px;
 }
 
 .allContainer{
